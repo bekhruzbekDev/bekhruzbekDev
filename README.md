@@ -51,3 +51,8 @@
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
 </a>
 </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bekhruzbekdev&show_icons=true&locale=en&layout=compact" alt="bekhruzbekdev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bekhruzbekdev&show_icons=true&locale=en" alt="bekhruzbekdev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bekhruzbekdev&" alt="bekhruzbekdev" /></p>
