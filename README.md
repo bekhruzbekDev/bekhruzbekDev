@@ -1,55 +1,75 @@
+# 👋 Hi, I'm Behruz Pardayev
 
-<h1 align="center">Assalomu Alaykum there 👋</h1>
+---
 
-###
+## 📌 About Me
 
-### 👩‍💻 About Me
+🎨 I'm a passionate Frontend Developer with over **2 years of hands-on experience** in the IT industry, specializing in building modern, high-performance, and scalable web applications.
 
-###
+🚀 My main tech stack includes **React**, **Next.js**, **TypeScript**, and **TailwindCSS**. I actively work on:
+- Building clean, responsive, and user-friendly interfaces
+- Optimizing project performance and SEO
+- Achieving high scores in **Google Lighthouse** and accessibility benchmarks
+- Developing scalable frontend systems with clean architecture
 
-#### My name is Behruz and I'm a Frontend developer,  **Uzbekistan, Karshi**
+⚙️ I have real-world experience in:
+- Virtualized tables and lazy-loaded dynamic components  
+- Debounced search, infinite scroll, and skeleton loaders  
+- Data management using **React Query** and form handling with **React Hook Form + Zod**  
+- Fullstack integrations via **Node.js**, **Express**, **MongoDB**, and **PostgreSQL**  
+- Production build optimization, CI/CD workflows, and deployment  
+- Mobile development with **React Native (Expo, Zustand, React Navigation)**  
 
-##### - 🔭 I am currently studying at Open Web Academy
+🎯 My goal is to become a strong **Middle Frontend Engineer**, mastering scalable system design, accessibility standards, and modern UX/UI animations.
 
-##### - 📚 I am currently deep learning JavaScript, React
+---
 
-##### - 🎯 My future goal is to become one of the best professionals in my field and to teach my field to others.
+## 🛠️ Languages
 
-###
-
-### 🛠 Language and tools
-
-
-
-<div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" />
-  <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" />
-  <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="40" />
-  <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" />
-  <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" />
-  <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" />
-  <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
+<div align="left" style="display:flex; gap:10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
 </div>
 
-#
+---
 
-### My social media pages:
+## ⚙️ Frameworks, Tools & Libraries
 
-<div>
-
-<a href='https://www.instagram.com/behruz_0944'>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-</a>
-<a href='https://t.me/behruzpardayev_1'>
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-</a>
+<div align="left" style="display:flex; gap:10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React Query-FF4154?logo=react-query&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React Hook Form-EC5990?logo=reacthookform&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VS Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white&style=for-the-badge" />
 </div>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bekhruzbekdev&show_icons=true&locale=en&layout=compact" alt="bekhruzbekdev" /></p> -->
 
+---
+
+## 📞 Contacts
+
+<div align="left" style="display:flex; gap:10px; flex-wrap: wrap;">
+  <a href="https://www.linkedin.com/in/behruz-pardayev-4b9621302/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://t.me/bekhruzzdev" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://instagram.com/behruz_0944" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:behruzp330@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+</div>
+
+> Open for professional collaborations, freelance opportunities, and fullstack web & mobile projects!
